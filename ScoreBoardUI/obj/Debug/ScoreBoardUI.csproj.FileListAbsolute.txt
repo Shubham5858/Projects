@@ -1,0 +1,10 @@
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\ScoreBoardUI\bin\Debug\ScoreBoardUI.exe.config
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\ScoreBoardUI\bin\Debug\ScoreBoardUI.exe
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\ScoreBoardUI\bin\Debug\ScoreBoardUI.pdb
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\ScoreBoardUI\bin\Debug\BowlingScoreCard.dll
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\ScoreBoardUI\bin\Debug\BowlingScoreCard.pdb
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\ScoreBoardUI\obj\Debug\ScoreBoardUI.csprojResolveAssemblyReference.cache
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\ScoreBoardUI\obj\Debug\ScoreBoardUI.exe
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\ScoreBoardUI\obj\Debug\ScoreBoardUI.pdb
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\ScoreBoardUI\bin\Debug\ClassLibrary1.dll
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\ScoreBoardUI\bin\Debug\ClassLibrary1.pdb

@@ -1,0 +1,5 @@
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\BowlingScoreCard\bin\Debug\BowlingScoreCard.dll
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\BowlingScoreCard\bin\Debug\BowlingScoreCard.pdb
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\BowlingScoreCard\obj\Debug\BowlingScoreCard.csprojResolveAssemblyReference.cache
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\BowlingScoreCard\obj\Debug\BowlingScoreCard.dll
+c:\users\z003u7rf\documents\visual studio 2015\Projects\BowlingScoreCard\BowlingScoreCard\obj\Debug\BowlingScoreCard.pdb
